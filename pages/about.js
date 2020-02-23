@@ -8,7 +8,7 @@ const About = () =>
 <a>Go to home</a>
 </Link>
 <p>A JavaScript programmer</p>
-<img src="/static/js.logo.png" alt="Javascript" height="200px"></img>
+<img src="/static/javas_logo.png" alt="Javascript" height="200px"></img>
 </Layout>;
 
 export default About;
